@@ -1,0 +1,56 @@
+header{
+    background-color: #333333;
+    background: #333333;
+    color: white;
+    font-family: arial;
+    padding: 1px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+header h2{
+    text-align: left;
+    margin: auto 150px;   
+    font-size: 1.7em;
+   
+    position: relative;
+    top: 25px;
+    left: 100px;
+ 
+}
+header ul{
+    white-space: nowrap;
+    max-width: 12000px;
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    position: relative;
+    top: -15px;
+    left: 250px;
+    
+     
+}
+header li{
+    width: 6%;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+
+    text-align: center;
+    margin: 2px auto;
+    
+
+}
+header li :hover{
+    color: #F7C08A;
+    background: #444444;
+    padding: 30px 20px;
+    
+} 
+header li a{
+    text-decoration: none;
+    color: blanchedalmond;
+}

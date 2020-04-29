@@ -1,0 +1,74 @@
+
+header li a[href*=about]{
+    color: #F7C08A;
+    background: #444444;
+    padding: 30px 20px;
+}
+main span{
+    color: #F7C08A;
+}
+main{
+    max-width: 100%;
+    width: 100%;
+    margin: 20px auto;
+    padding: 35px;
+    /* box-sizing: border-box; */
+    background: #dcdcdc;
+    position: fixed;
+    left: 0px;
+    top: 60px;
+    font-family: arial;
+    z-index: 2;
+}
+main h1{
+    text-align: left;
+    margin: auto 150px;   
+    font-size: 1.9em;
+   
+    position: relative;
+    top: 35px;
+    left: 60px;
+ 
+}
+main p{
+    line-height: 2em;
+    color: black;
+    font-size: 15px;
+    margin: 50px 210px;
+}
+.banner{
+   
+    font-family: arial;
+}
+.banner img{
+    position: fixed;
+    left: 0;
+    right: 0;
+   max-width: 100%;
+}
+.banner .guest{
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    
+    padding: 50px;
+    
+}
+.banner span{
+    color: rgb(236, 169, 102);
+}
+.banner h2{
+    font-size: 35px;
+    color: #ffffff;
+    text-align: center;
+
+}
+.banner input{
+    border-radius: 15px;
+    padding: 35px 400px;
+    background:#F7C08A  ;
+    opacity: 0.7;
+    border-style: none;
+
+}
+

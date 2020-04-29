@@ -1,0 +1,85 @@
+
+header li a[href*=contact]{
+    color: #F7C08A;
+    background: #444444;
+    padding: 30px 20px;
+}
+.error{
+    max-width: 100%;
+    widows: 1200px;
+    margin: 120px 150px;
+    padding: 0 80px;
+    box-sizing: border-box;
+    font-family: arial;
+    font-size: 1.3em;
+    
+}
+.error h1{
+    
+    font-size: 1.7em;
+
+}
+.error h1 span{
+    color: #f7c08a;
+}
+ .text input {
+    padding: 4px 440px;
+
+}
+.mess input{
+    padding: 10px 440px;
+}
+.sub input{
+    color: #ffffff;
+    background-color:#333333;
+    padding: 10px 14px;
+    border-radius: 10px;
+    font-family: arial;
+    font-size: 15px;
+    border-style: none;
+    padding: 15px 15px
+}
+footer{
+    background: #222222;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 100px 40px;
+    color: #ffffff;
+    text-align: center;
+    font-family: arial;
+    font-weight: none;
+    font-style: none;
+}
+
+
+.service {
+    float: left;
+    position: fixed;
+    left: 16%;
+    bottom: 3px;
+}
+.service img{
+    width: 24%;
+}
+.service2 {
+    position: fixed;
+    bottom: 9px;
+    left: 40%;
+}
+.service2 img{
+    width: 50px;
+    
+   
+}
+.service3{
+    
+    position: fixed;
+    bottom: 5px;
+    left: 60%;
+}
+.service3 img{
+    width: 60px;
+    color: white;
+}
